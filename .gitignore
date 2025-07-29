@@ -215,3 +215,6 @@ data/
 
 # VSCode project files
 .vscode/
+
+# Virtual environment folder
+.trendformer/
